@@ -89,8 +89,7 @@ As a result:
 
 Because of this, a network with several neurons can exhibit multiple slope changes.
 
--Before the kink, it contributes a line (or a constant value).
--After the kink, it contributes another line with a different slope.
+Before the kink, it contributes a line (or a constant value).After the kink, it contributes another line with a different slope.
 
 The neural network builds complex functions simply by summing many of these hinges.
 
