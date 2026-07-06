@@ -1,4 +1,4 @@
-#How KNNs work?
+# How KNNs work?
 
 
 ## What is the hypothesis set of the K-Nearest Neighbors learning model? 
@@ -10,7 +10,7 @@ So rather than "H = all lines" or "H = all degree-d polynomials," KNN's hypothes
 
 ---
 
-##What is its learning algorithm?
+## What is its learning algorithm?
 
 The learning algorithm is the more surprising part. KNN's "learning algorithm" is trivial: it just memorizes and stores the training data. There is no optimization step, no fitting of parameters, and no minimization of an error or loss function during training. The actual computational work happens at prediction time rather than training time. First, the entire training set (x_1, y_1), ..., (x_N, y_N) is stored, and this is the entirety of the training phase. Then, at query time, given a new point x, the algorithm computes the distance d(x, x_i) from x to every stored training point, selects the k training points with the smallest distance, and produces an output. For classification, the output is the majority label among those k neighbors, with ties broken by some rule such as smallest k or random selection. For regression, the output is the average, or distance-weighted average, of their y-values.
 
