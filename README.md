@@ -2,40 +2,6 @@
 
 This README indexes all the exercises assigned for this course. Each item below links directly to where the answer lives in this repository (notebook, script, or PDF), so the professor can jump straight to the corresponding solution.
 
-> All answers in this repository are written in English.
-
----
-
-## How the links work
-
-Each question links to a specific file (and, where useful, a specific section/heading inside that file) instead of just the repo root. There are two ways I used to do this — pick whichever fits how you organize your repo:
-
-**1. Link straight to a file (or a folder) in the repo**
-GitHub resolves relative paths automatically, so from this README you can just write:
-```markdown
-[Answer](./notebooks/01_hoeffding_simulation.ipynb)
-[Answer](./answers/02_entropy.pdf)
-[Answer](./src/perceptron.py)
-```
-If you want the professor to land on a specific commit/version instead of "whatever is on main right now", use a permalink (press `y` on GitHub while viewing the file to get a URL locked to that commit), e.g.:
-```markdown
-[Answer](https://github.com/<user>/<repo>/blob/<commit-sha>/notebooks/01_hoeffding_simulation.ipynb)
-```
-
-**2. Link to a specific heading inside one long file (anchor link)**
-If all answers live in a single Markdown file or notebook, GitHub auto-generates an anchor for every heading: lowercase the text, replace spaces with hyphens, strip punctuation. So a heading like:
-```markdown
-## 4. Perceptron
-```
-gets the anchor `#4-perceptron`, and you link to it like this:
-```markdown
-[Answer](./ANSWERS.md#4-perceptron)
-```
-This also works pointing *into* this same README if you keep answers below the questions instead of in separate files.
-
-I used placeholder links (`#`) below — swap each one for the real path/anchor once you drop this into your repo.
-
----
 
 ## Questions & Answers
 
