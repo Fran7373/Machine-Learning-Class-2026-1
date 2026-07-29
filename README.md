@@ -14,7 +14,7 @@ This README indexes all the exercises assigned for this course. Each item below 
      
      <img width="467" height="387" alt="image" src="https://github.com/user-attachments/assets/6ab30077-9e2d-4992-8c8c-28d6f6fbd134" />
 
-   → [Answer](#)
+   → [Answer](./Exercise1_10.ipynb)
 
 2. **Entropy** — Prove that log₂ P(X = i) represents the number of binary questions needed to identify a message with that probability, and derive why the entropy of a random variable can be expressed with the attached formula.
    <img width="344" height="88" alt="image" src="https://github.com/user-attachments/assets/9815e7e2-b933-42d0-81fc-e35ee5aa3818" />
