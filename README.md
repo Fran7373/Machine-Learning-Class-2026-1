@@ -19,10 +19,10 @@ This README indexes all the exercises assigned for this course. Each item below 
 2. **Entropy** — Prove that log₂ P(X = i) represents the number of binary questions needed to identify a message with that probability, and derive why the entropy of a random variable can be expressed with the attached formula.
    <img width="344" height="88" alt="image" src="https://github.com/user-attachments/assets/9815e7e2-b933-42d0-81fc-e35ee5aa3818" />
 
-   → [Answer](#)
+   → [Answer](./Entropy_BinaryRepresentationOfQuestions.pdf)
 
 3. **Support Vector Machine** — The optimization problem behind finding the best weights for an SVM; develop it using convex optimization.
-   → [Answer](#)
+   → [Answer](./SVMOpti.ipynb)
 
 4. **Perceptron** — Implement the perceptron algorithm and explain why it works. Complete exercises 1.2 and 1.3, plus answer:
    <img width="510" height="375" alt="image" src="https://github.com/user-attachments/assets/452b5c5d-2922-4f03-bd9c-c503e6dd6de3" />
@@ -30,7 +30,7 @@ This README indexes all the exercises assigned for this course. Each item below 
    - (a) Does the algorithm find the correct parameters (does it separate the data)?
    - (b) Does the algorithm stop in a finite number of steps? How is convergence guaranteed?
    - (c) Why does it work? (This connects to exercise 1.3.)
-   → [Answer](#)
+   → [Answer](./Exercice4)
 
 5. **XOR modeling** — Model XOR by connecting several basic neurons, then model XOR using perceptrons with specific weights for each one.
    → [Answer](#)
