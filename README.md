@@ -1,6 +1,6 @@
 # Machine Learning — Task List & Answers
 
-This README indexes all the exercises assigned for this course. Each item below links directly to where the answer lives in this repository (notebook, script, or PDF), so the professor can jump straight to the corresponding solution.
+This README indexes all the exercises assigned for this course. Each item below links directly to where the answer lives in this repository (notebook, script,folder, or PDF), so the professor can jump straight to the corresponding solution.
 
 
 ## Questions & Answers
@@ -65,3 +65,6 @@ This README indexes all the exercises assigned for this course. Each item below 
 
 13. **Folds/creases** — How many folds can this have? 
 <img width="553" height="343" alt="image" src="https://github.com/user-attachments/assets/9c27c8dd-8e90-4321-b5bb-083d620eda32" />
+
+ → [Answer](#)
+
