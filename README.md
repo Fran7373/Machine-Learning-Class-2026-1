@@ -17,7 +17,7 @@ This README indexes all the exercises assigned for this course. Each item below 
    → [Answer](#)
 
 2. **Entropy** — Prove that log₂ P(X = i) represents the number of binary questions needed to identify a message with that probability, and derive why the entropy of a random variable can be expressed with the attached formula.
-<img width="344" height="88" alt="image" src="https://github.com/user-attachments/assets/9815e7e2-b933-42d0-81fc-e35ee5aa3818" />
+   <img width="344" height="88" alt="image" src="https://github.com/user-attachments/assets/9815e7e2-b933-42d0-81fc-e35ee5aa3818" />
 
    → [Answer](#)
 
@@ -25,6 +25,8 @@ This README indexes all the exercises assigned for this course. Each item below 
    → [Answer](#)
 
 4. **Perceptron** — Implement the perceptron algorithm and explain why it works. Complete exercises 1.2 and 1.3, plus answer:
+   <img width="510" height="375" alt="image" src="https://github.com/user-attachments/assets/452b5c5d-2922-4f03-bd9c-c503e6dd6de3" />
+
    - (a) Does the algorithm find the correct parameters (does it separate the data)?
    - (b) Does the algorithm stop in a finite number of steps? How is convergence guaranteed?
    - (c) Why does it work? (This connects to exercise 1.3.)
@@ -46,6 +48,8 @@ This README indexes all the exercises assigned for this course. Each item below 
    → [Answer](#)
 
 9. **Inequalities (learning slide 29/30)** — Answer the last question: μ is the cause of ν, but we can infer that μ ≈ ν. Why?
+   <img width="569" height="348" alt="image" src="https://github.com/user-attachments/assets/2cfb6b63-f610-4cb8-83a1-687728cd2235" />
+
    → [Answer](#)
 
 10. **Hoeffding inequality — parameter control** — Given ε and δ = 2Me^(−2Nε²), which parameter better controls N (the number of data points)?
@@ -55,11 +59,9 @@ This README indexes all the exercises assigned for this course. Each item below 
     → [Answer](#)
 
 12. **Shallow neural network kinks** — What is the origin of the "joints"/kinks in a shallow neural network?
+   <img width="564" height="326" alt="image" src="https://github.com/user-attachments/assets/374cb997-57e4-4488-8085-62397e11fd80" />
+
     → [Answer](#)
 
-13. **Folds/creases** — How many folds can this have? (referring to the attached figure)
-    → [Answer](#)
-
----
-
-*Repository maintained for [course/professor name] — Machine Learning.*
+13. **Folds/creases** — How many folds can this have? 
+<img width="553" height="343" alt="image" src="https://github.com/user-attachments/assets/9c27c8dd-8e90-4321-b5bb-083d620eda32" />
