@@ -17,6 +17,7 @@ This README indexes all the exercises assigned for this course. Each item below 
    → [Answer](./Exercise1_10.ipynb)
 
 2. **Entropy** — Prove that log₂ P(X = i) represents the number of binary questions needed to identify a message with that probability, and derive why the entropy of a random variable can be expressed with the attached formula.
+   
    <img width="344" height="88" alt="image" src="https://github.com/user-attachments/assets/9815e7e2-b933-42d0-81fc-e35ee5aa3818" />
 
    → [Answer](./Entropy_BinaryRepresentationOfQuestions.pdf)
@@ -33,10 +34,10 @@ This README indexes all the exercises assigned for this course. Each item below 
    → [Answer](./Exercice4)
 
 5. **XOR modeling** — Model XOR by connecting several basic neurons, then model XOR using perceptrons with specific weights for each one.
-   → [Answer](#)
+   → [Answer](#./XORWithMPNeuronsAndPerceptrons.pdf)
 
 6. **Netflix Prize via SVD** — Read the *KDD Cup 2007 Task 1 Winner Report* (co-authored by Miklós Kurucz) and explain in detail how the Netflix Challenge was addressed using SVD. (Hint: draw a parallel between Topics vs. Genres and Genres vs. Movies to reason about the factorization's behavior.)
-   → [Answer](#)
+   → [Answer](./SVDSolvedWhoRatedWhatProblem.pdf)
 
 7. **KNN** — What is the hypothesis set of the K-Nearest-Neighbours learning model? What is its learning algorithm?
    → [Answer](#)
@@ -45,26 +46,26 @@ This README indexes all the exercises assigned for this course. Each item below 
    - (a) Prove the Markov bound and give one example.
    - (b) Prove the Chebyshev bound.
    - (c) Prove the Hoeffding bound (assuming Hoeffding's Lemma).
-   → [Answer](#)
+   → [Answer](./ConcentrationBounds.pdf)
 
 9. **Inequalities (learning slide 29/30)** — Answer the last question: μ is the cause of ν, but we can infer that μ ≈ ν. Why?
    <img width="569" height="348" alt="image" src="https://github.com/user-attachments/assets/2cfb6b63-f610-4cb8-83a1-687728cd2235" />
 
-   → [Answer](#)
+   → [Answer](./WhyMuIsApproximatelyNu.pdf)
 
 10. **Hoeffding inequality — parameter control** — Given ε and δ = 2Me^(−2Nε²), which parameter better controls N (the number of data points)?
-    → [Answer](#)
+    → [Answer](./EpsilonVSDelta.pdf)
 
 11. **Effective number of separating lines** — What is the effective number of lines that can separate 5 points (into 2 labels) in ℝ²? (Consider all possible lines separating the 5 points into two classes, discard the cases where no line can separate them, and count the effective number of lines.)
-    → [Answer](#)
+    → [Answer](./Exercice11PointSeparation.png)
 
 12. **Shallow neural network kinks** — What is the origin of the "joints"/kinks in a shallow neural network?
    <img width="564" height="326" alt="image" src="https://github.com/user-attachments/assets/374cb997-57e4-4488-8085-62397e11fd80" />
 
-    → [Answer](#)
+    → [Answer](./kinksShalowNetworks.pdf)
 
 13. **Folds/creases** — How many folds can this have? 
 <img width="553" height="343" alt="image" src="https://github.com/user-attachments/assets/9c27c8dd-8e90-4321-b5bb-083d620eda32" />
 
- → [Answer](#)
+ → [Answer](./ReLUNumberHipotesis.pdf)
 
