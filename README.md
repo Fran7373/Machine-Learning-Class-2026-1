@@ -40,7 +40,7 @@ This README indexes all the exercises assigned for this course. Each item below 
    → [Answer](./SVDSolvedWhoRatedWhatProblem.pdf)
 
 7. **KNN** — What is the hypothesis set of the K-Nearest-Neighbours learning model? What is its learning algorithm?
-   → [Answer](#)
+   → [Answer](./KNNHypotesis.pdf)
 
 8. **Concentration bounds**
    - (a) Prove the Markov bound and give one example.
