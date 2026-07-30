@@ -61,7 +61,10 @@ This README indexes all the exercises assigned for this course. Each item below 
 
 12. **Shallow neural network kinks** — What is the origin of the "joints"/kinks in a shallow neural network?
    <img width="564" height="326" alt="image" src="https://github.com/user-attachments/assets/374cb997-57e4-4488-8085-62397e11fd80" />
-   → [Answer](./ReLUNumberHipotesis.pdf)
+
+
+  
+   → [Answer](./Exercice11PointSeparation.png)
 
 13. **Folds/creases** — How many folds can this have? 
 <img width="553" height="343" alt="image" src="https://github.com/user-attachments/assets/9c27c8dd-8e90-4321-b5bb-083d620eda32" />
