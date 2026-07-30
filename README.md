@@ -26,6 +26,8 @@ This README indexes all the exercises assigned for the Mathematics of The Machin
    → [Answer](./SVMOpti.ipynb)
 
 4. **Perceptron** — Implement the perceptron algorithm and explain why it works. Complete exercises 1.2 and 1.3, plus answer:
+
+
    <img width="510" height="375" alt="image" src="https://github.com/user-attachments/assets/452b5c5d-2922-4f03-bd9c-c503e6dd6de3" />
 
    - (a) Does the algorithm find the correct parameters (does it separate the data)?
