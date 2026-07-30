@@ -36,7 +36,7 @@ This README indexes all the exercises assigned for the Mathematics of The Machin
    → [Answer](./Exercice4)
 
 5. **XOR modeling** — Model XOR by connecting several basic neurons, then model XOR using perceptrons with specific weights for each one.
-   → [Answer](#./XORWithMPNeuronsAndPerceptrons.pdf)
+   → [Answer](./XORWithMPNeuronsAndPerceptrons.pdf)
 
 6. **Netflix Prize via SVD** — Read the *KDD Cup 2007 Task 1 Winner Report* (co-authored by Miklós Kurucz) and explain in detail how the Netflix Challenge was addressed using SVD. (Hint: draw a parallel between Topics vs. Genres and Genres vs. Movies to reason about the factorization's behavior.)
    → [Answer](./SVDSolvedWhoRatedWhatProblem.pdf)
