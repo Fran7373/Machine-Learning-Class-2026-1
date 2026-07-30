@@ -1,6 +1,6 @@
-# Machine Learning — Task List & Answers
+# Machine Learning 2026-1 course — Task List & Answers
 
-This README indexes all the exercises assigned for this course. Each item below links directly to where the answer lives in this repository (notebook, script,folder, or PDF), so the professor can jump straight to the corresponding solution.
+This README indexes all the exercises assigned for the Mathematics of The Machine Learning 2026-1 course. Each item below links directly to where the answer lives in this repository (notebook, script,folder, or PDF).
 
 
 ## Questions & Answers
